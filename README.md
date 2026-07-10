@@ -1,4 +1,5 @@
 <div align="center">
+  
 ### 👋 Welcome to David Hernandez's GitHub
   <br>
   I am a computer systems engineer with experience as a freelance developer.
@@ -8,27 +9,68 @@
 </div>
  
  ---
- <div aling="center">
+ 
+<div aling="center">
 # 📫Conect with me:
   <br>
 
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-antonio-hernández-brito-213a951b8)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:david.arcos1000@gmail.com)
    
- </div>
+</div>
 
 ---
 
-#### 🔭 I’m currently working on: 
-- Finish my engineering degree in computer systems.
-- Create my work portfolio.
-- Work as a freelance web developer.
 
-#### 🌱 I’m currently learning:
-- Java Microoservices.
-- Java Spring.
-- Astro FrameWork.
-<br>
+---
+
+# 👨🏻‍💻 About Me
+
+Hola 👋
+
+Soy **David Hernandez**, Ingeniero en Sistemas Computacionales y desarrollador Full Stack.
+
+Me apasiona desarrollar aplicaciones modernas, escalables y fáciles de mantener.
+
+Actualmente estoy especializándome en:
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Java
+- Spring Boot
+- MySQL
+
+---
+
+# 🚀 Technologies
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap"/>
+
+</p>
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql"/>
+
+</p>
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+
+</p>
+
+---
 
 
 # 💻 Tech Stack:
