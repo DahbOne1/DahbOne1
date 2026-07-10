@@ -1,12 +1,15 @@
 <!--
 -->
 <div align="center">
-# 👋 Welcome to David Hernandez's GitHub
-<img src="https://your-banner.gif" width="100%">
+  ### 👋 Welcome to David Hernandez's GitHub
+  I am a computer systems engineer with experience as a freelance developer.
+  I have experience working as a teacher and programming instructor at various institutions.
+  I love seeing progress in myself and the people around me, and I strive to improve every day.
+  <img src="https://i.pinimg.com/1200x/88/ce/08/88ce08d2d34dd0b251e7a0cdc98f992e.jpg" width="100%">
 </div>
 
 ### Hi there 👋
-Welcome to my Github page! I'm David Hernández and I'm currently graduating in computer systems engineering!
+Welcome to my Github page!  and I'm currently graduating in computer systems engineering!
 
 📫 How to reach me:
 <br>
