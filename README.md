@@ -1,11 +1,11 @@
 <div align="center">
-  ###👋 Welcome to David Hernandez's GitHub
+  ### 👋 Welcome to David Hernandez's GitHub
+  <br>
   I am a computer systems engineer with experience as a freelance developer.
   I have experience working as a teacher and programming instructor at various institutions.
   I love seeing progress in myself and the people around me, and I strive to improve every day.
   <img src="https://i.pinimg.com/1200x/88/ce/08/88ce08d2d34dd0b251e7a0cdc98f992e.jpg" width="100%">
 </div>
-
 
 📫 How to reach me:
 <br>
