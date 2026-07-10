@@ -21,9 +21,6 @@
 
 ---
 
-
----
-
 # 👨🏻‍💻 About Me
 
 Hola 👋
@@ -71,6 +68,56 @@ Actualmente estoy especializándome en:
 </p>
 
 ---
+
+# 📊 Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight">
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TUUSUARIO&theme=tokyo-night">
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=TUUSUARIO&theme=tokyonight&row=1&column=6">
+
+</p>
+
+---
+
+# 💻 Featured Projects
+
+| Proyecto | Descripción |
+|----------|-------------|
+| SetSolver | Calculadora de teoría de conjuntos |
+| Gym Manager | Sistema administrativo para gimnasios |
+| Ticket School | Sistema de venta de boletos escolares |
 
 
 # 💻 Tech Stack:
