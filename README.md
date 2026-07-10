@@ -1,14 +1,10 @@
 <!--
-**DahbOne1/DahbOne1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
 -->
+<div align="center">
+# 👋 Welcome to David Hernandez's GitHub
+<img src="https://your-banner.gif" width="100%">
+</div>
+
 ### Hi there 👋
 Welcome to my Github page! I'm David Hernández and I'm currently graduating in computer systems engineering!
 
