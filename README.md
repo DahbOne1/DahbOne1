@@ -45,15 +45,19 @@ Si gustas contactar conmigo, puedes hacerlo a través de los siguientes enlaces:
   ## Mis proyectos destacados
 
   ### SetSolver
+  
   Calculadora de teoría de conjuntos desarrollada para estudiantes y docentes que permite resolver operaciones entre conjuntos de forma rápida e intuitiva.
   
   **Objetivo**
+  
    Facilitar el aprendizaje de la teoría de conjuntos mediante una herramienta visual y fácil de usar.
     
   **Tecnologías**
+  
  React • JavaScript • CSS • HTML• Electron • TailwindCSS
   
   **Características principales**
+  
 - Crear conjuntos
 - Editar elementos
 - Operaciones entre conjuntos
@@ -68,9 +72,13 @@ Si gustas contactar conmigo, puedes hacerlo a través de los siguientes enlaces:
 <br>
 
   ### F1 Radar
+  
   **Objetivo**
+  
   **Tecnologías**
+  
   **Características principales**
+  
   -
   -
   -
@@ -86,9 +94,13 @@ Si gustas contactar conmigo, puedes hacerlo a través de los siguientes enlaces:
 
 
   ### Fraseo
+  
   **Objetivo**
+  
   **Tecnologías**
+  
   **Características principales**
+  
   -
   -
   -
@@ -96,6 +108,7 @@ Si gustas contactar conmigo, puedes hacerlo a través de los siguientes enlaces:
   Demo: 
   <br>
   Repositorio:
+
 </div>
 
 <br>
