@@ -94,6 +94,8 @@ Si gustas contactar conmigo, puedes hacerlo a través de los siguientes enlaces:
 
 
   ### Fraseo
+
+  **Fraseo** es una aplicación móvil diseñada para acompañar al usuario en su día a día mediante frases motivacionales y contenido orientado al bienestar personal.
   
   **Objetivo**
   
